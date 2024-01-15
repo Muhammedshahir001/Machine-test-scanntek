@@ -55,6 +55,11 @@ const LoginPage = () => {
                   </div>
                 </div>
               </div>
+              <img
+                className="h-[30px] w-[276px] md:pl-[73rem] "
+                alt=""
+                src="/img_frame191.svg"
+              />
               <div className="flex flex-row items-center justify-start gap-[0.83rem] text-[0.44rem]">
                 <div className="hidden md:flex shrink-0  flex-row items-center justify-start opacity-[0]">
                   <div className="w-[9.56rem] shrink-0 flex flex-row items-center justify-center py-[0.56rem] pr-[0rem] pl-[0.56rem] box-border">
